@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/tassyguy/DexPPweb/issues"
   },
-  "homepage": "https://github.com/tassyguy/DexPPweb#readme"
+  "homepage": "https://github.com/tassyguy/DexPPweb#readme",
+  "dependencies": {
+    "oakdex-pokedex": "^0.2.2",
+    "oakdex-pokedex-sprites": "0.0.1"
+  }
 }
