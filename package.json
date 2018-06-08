@@ -1,0 +1,22 @@
+{
+  "name": "dexppweb",
+  "version": "0.0.1",
+  "description": "A Pokedex for power users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tassyguy/DexPPweb.git"
+  },
+  "keywords": [
+    "pokedex"
+  ],
+  "author": "Simon Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tassyguy/DexPPweb/issues"
+  },
+  "homepage": "https://github.com/tassyguy/DexPPweb#readme"
+}
