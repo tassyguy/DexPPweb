@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/tassyguy/DexPPweb#readme",
   "dependencies": {
+    "jshint": "^2.9.5",
     "material-components-web": "^0.36.0",
     "oakdex-pokedex": "^0.2.2",
     "oakdex-pokedex-sprites": "0.0.1",

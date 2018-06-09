@@ -1,0 +1,1 @@
+oakdexPokedex = require('oakdex-pokedex');
